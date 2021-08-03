@@ -1,0 +1,33 @@
+@charset "UTF-8";
+* {	
+	max-width:1200px; height:1400px;  margin:5px auto;
+	position:relative; top:0px; left:0px;
+}
+
+header 	{width:1190px; height:50px; border:1px solid gray;  background-color: lavender;}
+	
+nav 	
+{
+	width:1190px; height:50px;  border:1px solid gray;
+	font-size:15px;
+	background-color: lightpink;
+}
+
+content 
+{
+	width: 1190px; 
+	height:800px; 
+	position:absolute; top: 110px; left: 0px;
+	margin:4px;
+    text-align: center;
+	border: 1px solid gray;
+	background-color: lightseagreen;
+}
+footer
+{
+	width:1190px; height:200px; 
+	border:1px solid gray;
+	position:absolute; top:915px; left:0px;
+	margin: 4px;
+	background-color: maroon;
+}
